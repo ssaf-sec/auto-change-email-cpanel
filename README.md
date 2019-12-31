@@ -1,3 +1,3 @@
 # Auto Change Email Cpanel
 
-ssaf-saf.org
+ssaf-sec.org
